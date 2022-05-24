@@ -1,0 +1,12 @@
+
+[database]
+  ip = ""
+  password = ""
+  port = "1521"
+  service_name = ""
+  user_name = ""
+
+[dir]
+  log = "log"
+  params = "params"
+  template = "template"
